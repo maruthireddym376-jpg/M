@@ -1,0 +1,6 @@
+{
+  "name": "Crunchi",
+  "description": "Crunchi is a highly polished, offline-first food and grocery delivery application featuring dynamic menus, dynamic order tracking with real-time driver GPS path Canvas drawing, and robust Room local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
